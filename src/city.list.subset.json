@@ -1,0 +1,38 @@
+[
+    {
+      "id": 2643743,
+      "name": "London",
+      "country": "GB",
+      "coord": {
+        "lon": -0.12574,
+        "lat": 51.50853
+      }
+    },
+    {
+      "id": 2650225,
+      "name": "Edinburgh",
+      "country": "GB",
+      "coord": {
+        "lon": -3.19648,
+        "lat": 55.952061
+      }
+    },
+    {
+      "id": 2653822,
+    "name": "Cardiff",
+    "country": "GB",
+    "coord": {
+      "lon": -3.18,
+      "lat": 51.48
+      }
+    },
+    {
+      "id": 7778677,
+      "name": "Dublin City",
+      "country": "IE",
+      "coord": {
+        "lon": -6.24922,
+        "lat": 53.355122
+    }
+    }
+]
